@@ -1,6 +1,7 @@
 # Jake Hamill
 ### Poetry Generator
 
-* Check One
-* Cheeeeeck 2
-* aaaaand Check 3
+* Poetry Generator
+* Poetry Gen to Sound
+* Soundwave to 3D Model
+* 3D Model to CNC
