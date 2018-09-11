@@ -20,7 +20,7 @@ Paint that keeps these structures
 huffing and puffing bones exhausted
 I know that if these houses can get one more layer of paint
 then I might just see them once again
-standing brilliantly against this wall of grey. 
+standing brilliantly against this wall of gray. 
 
 Russian
 
