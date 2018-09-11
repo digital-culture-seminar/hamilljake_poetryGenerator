@@ -7,7 +7,8 @@ August 28, 2018
 
 """
 """
-Inevitability of Change (and question of if a change is powerful enough to keep a system going)
+Artist Statement
+Inevitability of Change (and the question of if a change is powerful enough to keep a system going)
 
 
 English
@@ -41,7 +42,7 @@ Hindi
 (rep) huffing and puffing
 (with) laughing at the bones
 
-Japanes
+Japanese
 
 Storms are blew on the horizon.
 Shapsifting is a generation of bright colored paint that
