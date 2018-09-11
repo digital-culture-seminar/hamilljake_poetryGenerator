@@ -65,7 +65,7 @@ nouns = ["sailor",
 # list of verbs
 
 verbs = ["swims", 
-         "falls", 
+         "tumbles", 
          "monitors", 
          "bursts"]
 
@@ -82,7 +82,7 @@ noun = random.choice(nouns)
 verb = random.choice(verbs)
 adjective = random.choice(adjectives)
 
-print "The " + adjective + " " + noun + " " + verb + "
+print "The " + adjective + " " + noun + " " + verb + ""
 
 #i = 0
 #for verb in verbs:
