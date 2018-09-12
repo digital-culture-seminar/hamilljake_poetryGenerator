@@ -53,6 +53,19 @@ and I'm tired of these houses,
 and I'm going to see them again, 
 and I'm standing on this gray wall, 
 and I'm standing on this gray wall.
+
+Korean
+
+The storm bubbles in the horizon.
+It's always a transformation and a distant transformation.
+Light is poured out through the holes of thick grey clouds.
+The twinkling of a hard house.
+The generation of bright-colored paint
+Paint Maintaining This Structure
+Burnout and bone are bloat.
+If we paint the houses one more time,
+Then I may look at them once again.
+This gray wall is standing well.
 """
 import random
 
