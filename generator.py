@@ -8,7 +8,9 @@ August 28, 2018
 """
 """
 Artist Statement
-Inevitability of Change (and the question of if a change is powerful enough to keep a system going)
+This poem is about the inevitability of change (and the question of if a 
+change is powerful enough to completely change a system rather than 
+dress it up as different)
 
 
 English
@@ -71,32 +73,41 @@ import random
 
 # list of nouns
 
-nouns = ["sailor", 
-         "jawbreaker", 
-         "jellyfish", 
-         "slurpee"]
+poems = ["The storm bubbles on the horizon. It's always a transformation. "
+         "It's always a transformation and a distant transformation. "
+         "Light is poured out through holes in the thick grey clouds. "
+         "The twinkling of a hard house. The generation of bright colored paint. "
+         "Paint maintaining this structure burnout with bloated bones. " 
+         "If we paint the house one more time then I may look at it once again. "
+         "This grey wall is standing well.", "Storms are blowing on the horizon. "
+         "Shapeshifting is a generation of bright colored paint that is always farther and far away, "
+         "and is the shaking house in which light is poured into the hole in a thick grey cloud. "
+         "I'm tired of the painted bone that holds these structures, and I'm tired of these houses, "
+         "but I'm going to see them again, and I'm standing on this grey wall, "
+         "and I'm standing on this grey wall. "]
+
 
 # list of verbs
 
-verbs = ["swims", 
-         "tumbles", 
-         "monitors", 
-         "bursts"]
+#verbs = ["swims", 
+#         "tumbles", 
+#         "monitors", 
+#         "bursts"]
 
 # list of adjectives
 
-adjectives = ["mysterious", 
-              "shriveled", 
-              "colossal", 
-              "obedient"]
+#adjectives = ["mysterious", 
+#              "shriveled", 
+#              "colossal", 
+#              "obedient"]
 
 # random + new variable
 
-noun = random.choice(nouns)
-verb = random.choice(verbs)
-adjective = random.choice(adjectives)
+poem = random.choice(poems)
+#verb = random.choice(verbs)
+#adjective = random.choice(adjectives)
 
-print "The " + adjective + " " + noun + " " + verb + ""
+print poem
 
 #i = 0
 #for verb in verbs:
