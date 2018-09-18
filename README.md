@@ -1,6 +1,6 @@
 ### Jake Hamill
-# Poetry Generator
-**Artist Statement**
+## Poetry Generator
+###Artist Statement_**
 
 #### This poem generator is based off of a poem that I wrote while walking
 #### around the block in my Baton Rouge neighborhood. There was a large storm on the
