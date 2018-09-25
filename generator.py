@@ -46,9 +46,9 @@ Hindi
 
 Japanese
 
-Storms are blew on the horizon.
+Storms are blown on the horizon.
 Shapsifting is a generation of bright colored paint that
-is always farther and far away, and is the shaking house
+is always farther and far away, and is shaking the house.
 in which light is poured into the hole in a thick gray cloud.
 I'm tired of the Painting bone that holds these structures,
 and I'm tired of these houses,
@@ -75,28 +75,44 @@ import random
 
 line1 = ["The storm bubbles on the horizon. ", "Storms are blowing on the horizon. ",
          "The storm bubbles far on the horizon. ", "The storm bubble is far on the horizon. ",
-         "A storm is far away ball over-the-horizon. ",]
+         "A storm is far away ball over-the-horizon. ", "There is a storm on the horizon for "
+         "dispersion into the distance. ", "Storms are blown on the horizon. ", ]
 
 line2 = ["Shape shifting, always moving closer and farther away. ", " Its always a transformation "
-         "and a distant transformation. ", "Shape shifting is always farther and far away. ", "Deformation, always" 
-         "getting closer.", "The changed form moves timelessly. " ]
+         "and a distant transformation. ", "Shape shifting is always farther and far away. ", "Deformation, always " 
+         "getting closer. ", "The changed form moves timelessly. ", 
+         "Shape-shifting to mobile, remote and far away. ", "Shapsifting is a generation of bright colored paint "
+         "that is always farther and far away, and is shaking the house. ", ]
 
 line3 = ["Light pours through holes in thick grey clouds. ", "The light passes through the thick gray clouds .",
-         "Light rushes into holes of the fat grey clouds. ", ]
+         "Light rushes into holes of the fat grey clouds. ", "Light filtering through a hole in the thick "
+         "gray clouds. ", "Light is poured out through the holes of thick grey clouds. ", 
+         "Light sheds through holes in thick grey clouds. ", "Light is thrown through the holes of thick "
+         "grey clouds. ", ]
 
 line4 = ["Glimmering off of houses that perspire through generations of brightly colored paint. ",
          "The sweaty house is brighter through several generations of brightly coloured paint. ",
-         "Muzante cuts in houses that pespire in generation in painting abazde colorful. "]
+         "A mantle cuts in houses that perspire in generations of paint ablaze and colorful. ", 
+         "Sparkle home-sweat through several generations of bright colors. ",
+         "The twinkling of a hard house. The generation of bright-colored paint. ",
+         "Glimmering off of houses that perspire through generations of shiney colored paint. ", ]
 
 line5 = ["Paint that keeps these structures huffing and puffing with bones exhausted. ",
          "The paint that keeps these structures tired of panting and swelling bones . ",
-         "Painting holding these structures huffing and suffering after bone use. ", ]
+         "Painting holding these structures huffing and suffering after bone use. ", 
+         "Paint maintaining this structure burnout with bones bloated. ", "I'm tired of the painting bone that "
+         "holds these structures. ", "Paint that keeps these structures dead and burning. ", "Paint that "
+         "keeps these structures laughing at the bones. ", ]
 
 line6 = ["I know that if these houses can get one more layer of paint then I might just see them once again "
          "standing brilliantly against this wall of gray. ", 
          "I know that if these houses can be painted one more layer, then I might see them again close to the "
-         "gray wall. ", "I know that if these buildings can find one more diapers in painting then I could "
-         "just see them again a second time ancrage brilliant against this wall in grey. ", ]
+         "gray wall. ", "I know that if these buildings can find one more layer in the painting then I could "
+         "just see them again a second time brilliant against this wall in grey. ", 
+         "If we paint the houses one more time, then I may look at them once again. " 
+         "This gray wall is standing well. ", "I'm tired of the painting bone that holds these structures, and " 
+         "I'm tired of these houses, and I'm going to see them again, and I'm standing on this gray wall, "
+         "and I'm standing on this gray wall. ",  ]
 
 
 first = random.choice(line1)
