@@ -74,33 +74,40 @@ import random
 # list of nouns
 
 line1 = ["The storm bubbles on the horizon. ", "Storms are blowing on the horizon. ",
-         "The storm bubbles far on the horizon. "]
+         "The storm bubbles far on the horizon. ", "The storm bubble is far on the horizon. ",
+         "A storm is far away ball over-the-horizon. ",]
 
-line2 = ["Shapeshifting, always moving closer and farther away. ", " Its always a transformation "
-         "and a distant transformation. ", "Shapeshifting is always farther and far away. "]
+line2 = ["Shape shifting, always moving closer and farther away. ", " Its always a transformation "
+         "and a distant transformation. ", "Shape shifting is always farther and far away. ", "Deformation, always" 
+         "getting closer.", "The changed form moves timelessly. " ]
 
+line3 = ["Light pours through holes in thick grey clouds. ", "The light passes through the thick gray clouds .",
+         "Light rushes into holes of the fat grey clouds. ", ]
 
-# list of verbs
+line4 = ["Glimmering off of houses that perspire through generations of brightly colored paint. ",
+         "The sweaty house is brighter through several generations of brightly coloured paint. ",
+         "Muzante cuts in houses that pespire in generation in painting abazde colorful. "]
 
-#verbs = ["swims", 
-#         "tumbles", 
-#         "monitors", 
-#         "bursts"]
+line5 = ["Paint that keeps these structures huffing and puffing with bones exhausted. ",
+         "The paint that keeps these structures tired of panting and swelling bones . ",
+         "Painting holding these structures huffing and suffering after bone use. ", ]
 
-# list of adjectives
+line6 = ["I know that if these houses can get one more layer of paint then I might just see them once again "
+         "standing brilliantly against this wall of gray. ", 
+         "I know that if these houses can be painted one more layer, then I might see them again close to the "
+         "gray wall. ", "I know that if these buildings can find one more diapers in painting then I could "
+         "just see them again a second time ancrage brilliant against this wall in grey. ", ]
 
-#adjectives = ["mysterious", 
-#              "shriveled", 
-#              "colossal", 
-#              "obedient"]
-
-# random + new variable
 
 first = random.choice(line1)
 second = random.choice(line2)
-#adjective = random.choice(adjectives)
+third = random.choice(line3)
+fourth = random.choice(line4)
+fifth = random.choice(line5)
+sixth = random.choice(line6)
 
-print first + second
+
+print first + second + third + fourth + fifth + sixth
 
 #i = 0
 #for verb in verbs:
