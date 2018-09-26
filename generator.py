@@ -28,7 +28,7 @@ standing brilliantly against this wall of gray.
 Russian
 
 (rep) pour light
-(with) shed light
+(with) shed lights
 
 (rep)huffing and puffing bones exhausted 
 (with) dead and burning
