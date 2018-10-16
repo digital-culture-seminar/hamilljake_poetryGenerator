@@ -6,69 +6,10 @@ License: GNU General Public License
 August 28, 2018
 
 """
-"""
-Artist Statement
-This poem is about the inevitability of change (and the question of if a 
-change is powerful enough to completely change a system rather than 
-dress it up as different)
 
 
-English
-A storm bubbles far on the horizon. 
-Shapeshifting, always moving closer and farther away
-Light pours through holes in the thick grey clouds
-Glimmering off of houses that perspire through
-generations of brightly colored paint.
-Paint that keeps these structures 
-huffing and puffing bones exhausted
-I know that if these houses can get one more layer of paint
-then I might just see them once again
-standing brilliantly against this wall of gray. 
 
-Russian
 
-(rep) pour light
-(with) shed lights
-
-(rep)huffing and puffing bones exhausted 
-(with) dead and burning
-
-Hindi
-
-(rep) pour light
-(with) throw light
-
-(rep) brightly colored paint
-(with) shiny colored paint 
-
-(rep) huffing and puffing
-(with) laughing at the bones
-
-Japanese
-
-Storms are blown on the horizon.
-Shapsifting is a generation of bright colored paint that
-is always farther and far away, and is shaking the house.
-in which light is poured into the hole in a thick gray cloud.
-I'm tired of the Painting bone that holds these structures,
-and I'm tired of these houses,
-and I'm going to see them again, 
-and I'm standing on this gray wall, 
-and I'm standing on this gray wall.
-
-Korean
-
-The storm bubbles in the horizon.
-It's always a transformation and a distant transformation.
-Light is poured out through the holes of thick grey clouds.
-The twinkling of a hard house.
-The generation of bright-colored paint
-Paint Maintaining This Structure
-Burnout and bone are bloat.
-If we paint the houses one more time,
-Then I may look at them once again.
-This gray wall is standing well.
-"""
 import random
 
 # list of nouns
@@ -99,7 +40,7 @@ line4 = ["Glimmering off of houses that perspire through generations of brightly
          "The twinkling of a hard house. The generation of bright-colored paint. ",
          "Glimmering off of houses that perspire through generations of shiney colored paint. ",
          "The glitter from the home, sweats through a lot of bright colors. ", 
-         "Glitters of houses that are sweating through generations of paint in bright colors. ", ]
+         "Glitters on houses sweat through generations of paint in bright colors. ", ]
 
 line5 = ["Paint that keeps these structures huffing and puffing with bones exhausted. ",
          "The paint that keeps these structures tired of panting and swelling bones . ",

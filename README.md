@@ -9,4 +9,14 @@
 #### a change must be in order to alter it's structure. In our ever more interconnected
 #### world we also see languages leaving different cultures at an escalating rate. This poem  
 #### focuses on utilizing online language translators to alter the structure of my poem so that
-#### it walks a fine line in between maintaining its structure and losing it all together.   
+#### it walks a fine line in between maintaining its structure and losing it all together.
+
+### Examples
+
+##### A storm is far away ball over-the-horizon. Shape shifting is a generation of bright colored paint that is always farther and far away, and is shaking the house. Light is thrown through the holes of thick grey clouds. The sweaty house is brighter through several generations of brightly colored paint. The paint that preserves these structures drains the bones and puffs. I'm tired of the painting bone that holds these structures, and I'm tired of these houses, and I'm going to see them again, and I'm standing on this gray wall, and I'm standing on this gray wall.  
+
+##### The storm bubble is far on the horizon. Shape shifting is always farther and far away. Light drains from circles in the grey cloud. The glitter from the home, sweats through a lot of bright colors. Paint that keeps these structures huffing and puffing with bones exhausted. If we paint the houses one more time, then I may look at them once again. This gray wall is standing well.
+
+##### There is a storm on the horizon for dispersion into the distance. Shape-shifting to mobile, remote and far away. Light rushes into holes of the fat grey clouds. A mantle cuts in houses that perspire in generations of paint ablaze and colorful. The paint that keeps these structures tired of panting and swelling bones . I know that if these houses would get another layer of color then I could see them again fried with the walls of this gray.
+
+##### Storm bubbles far on horizon. Shapsifting is a generation of bright colored paint that is always farther and far away, and is shaking the house. The light passes through the thick gray clouds .The sweaty house is brighter through several generations of brightly coloured paint. The paint that preserves these structures drains the bones and puffs. I know that if these houses can get one more layer of paint then I might just see them once again standing brilliantly against this wall of gray.
