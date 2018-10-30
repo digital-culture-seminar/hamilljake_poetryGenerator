@@ -9,7 +9,8 @@ August 28, 2018
 
 
 
-
+from playsound import playsound
+from gtts import gTTS
 import random
 
 # list of nouns
@@ -72,19 +73,19 @@ fifth = random.choice(line5)
 sixth = random.choice(line6)
 
 
-print first + second + third + fourth + fifth + sixth
+poem = first + second + third + fourth + fifth + sixth
+print poem
 
-#i = 0
-#for verb in verbs:
-#    whitespace = " " * i
-#    print whitespace + verb
-#    i = i + 1
-    
-#i = 0
-#for noun in nouns:
-#    whitespace = " " * i
-#    print whitespace + noun
-#    i = i + 1    
+#text to speech
+tts = gTTS(text=poem, lang="en")
+
+#write audio file
+tts.save("mp3s/poemgenfinal_02.mp3")
+
+#play audio file
+playsound("mp3s/poemgenfinal_02.mp3")
+
+  
     
     
     

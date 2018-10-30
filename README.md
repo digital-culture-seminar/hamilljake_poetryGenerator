@@ -13,7 +13,7 @@
 
 ### Examples
 
-##### A storm is far away ball over-the-horizon. Shape shifting is a generation of bright colored paint that is always farther and far away, and is shaking the house. Light is thrown through the holes of thick grey clouds. The sweaty house is brighter through several generations of brightly colored paint. The paint that preserves these structures drains the bones and puffs. I'm tired of the painting bone that holds these structures, and I'm tired of these houses, and I'm going to see them again, and I'm standing on this gray wall, and I'm standing on this gray wall.  
+##### The storm bubble is far on the horizon. Shape shifting, always moving closer and farther away. Light drains from circles in the grey cloud. The twinkling of a hard house. The generation of bright-colored paint. Paint that keeps these structures dead and burning. If we paint the houses one more time, then I may look at them once again. This gray wall is standing well.  
 
 ##### The storm bubble is far on the horizon. Shape shifting is always farther and far away. Light drains from circles in the grey cloud. The glitter from the home, sweats through a lot of bright colors. Paint that keeps these structures huffing and puffing with bones exhausted. If we paint the houses one more time, then I may look at them once again. This gray wall is standing well.
 
