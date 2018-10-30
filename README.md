@@ -11,7 +11,11 @@
 #### focuses on utilizing online language translators to alter the structure of my poem so that
 #### it walks a fine line in between maintaining its structure and losing it all together.
 
-### Examples
+### Original
+
+##### A storm bubbles far on the horizon. Shapeshifting, always moving closer and farther away. Light pours through holes in thick grey clouds glimmering off of houses that perspire through generations of brightly colored paint. Paint that keeps these structures still breathing but with bones exhausted. I know that if these houses can get one more layer of paint then I might just see them once again standing brilliantly against this wall of gray.
+
+### Generated Examples
 
 ##### The storm bubble is far on the horizon. Shape shifting, always moving closer and farther away. Light drains from circles in the grey cloud. The twinkling of a hard house. The generation of bright-colored paint. Paint that keeps these structures dead and burning. If we paint the houses one more time, then I may look at them once again. This gray wall is standing well.  
 
