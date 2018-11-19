@@ -93,3 +93,13 @@ I know that if these buildings can find one more time, then I could just see the
 ```
 The color allows these structures drains the bones completely bored.The glitter from the home, sweats through a hole in the thick gray clouds.Glitters on houses sweat through generations of brightly colored paint.The storm is far on horizon.Storms are blown on the horizon for dispersion into the distance.I'm tired of the painting then I may look at them once again standing brilliantly against this wall of gray.
 ```
+
+
+```
+The glitter from the home, sweats through a hole in the thick gray clouds.Light rushes into holes of thick grey clouds.The glitter from the home, sweats through a hole in the painting bone that holds these structures.
+```
+
+
+```
+The sweaty house is brighter through several generations of paint in bright colors.I know that if these buildings can find one more layer of color then I might just see them again fried with the walls of this gray.A mantle cuts in houses that perspire through generations of brightly colored paint.
+```

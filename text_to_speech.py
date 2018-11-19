@@ -38,9 +38,9 @@ for i in range(0,3):
     poem = poem + synthesized_model.make_sentence()
     
     
-    print "i = " + str(i)
-    print "a = " + str(a)
-    print "c = " + str(c)
+#    print "i = " + str(i)
+#    print "a = " + str(a)
+#    print "c = " + str(c)
     
 print poem
     
@@ -63,7 +63,7 @@ markov_poem = text_model.make_short_sentence(240)
 tts = gTTS(text=poem, lang="en")
 
 #write audio file
-tts.save("mp3s/purpose44.mp3")
+tts.save("mp3s/purpos4.mp3")
 
 #play audio file
-playsound("mp3s/purpose44.mp3")
+playsound("mp3s/purpos4.mp3")
